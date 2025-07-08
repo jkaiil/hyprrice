@@ -1,7 +1,9 @@
 # hyprrice
 My second rice, and mostly my own configs or ones modified to hell
-
 EndeavorOS blank as starting point
+
+https://github.com/user-attachments/assets/3ea93769-b9b7-4e90-85bb-674ac8c87b88
+
 
 # stuff i used:
 * Hyprland
@@ -43,6 +45,10 @@ config files arent neccessarily completely written by me, mostly modified code o
 ---
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGNlam1xZGMyb2I3aHNjYW81Mm14OXNhcTcxbGFjYW05M3QwcGhwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZOGCyj0NW28gg/giphy.gif" width="10%">
+
+
+https://github.com/user-attachments/assets/3ea93769-b9b7-4e90-85bb-674ac8c87b88
+
 
   </p>
         
