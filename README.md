@@ -4,7 +4,7 @@ My second rice, and mostly my own configs or modified to hell
 EndeavorOS blank as starting point
 
 # stuff i used:
-Hyprland
+Hyprland /n
 Waybar
 Wofi (application launcher)
 kitty (terminal)
